@@ -1,4 +1,4 @@
-# Facebook Clone with Laravel, TDD, Vue & Tailwind CSS 
+# Laravel Developer – Beginner To Advanced – Become an industry recognized Certified Laravel Developer, Stand out, Get Hired
 
 Learn to code a social network platform powered by a Laravel API & built using a Vue Single Page Application
 
@@ -19,7 +19,7 @@ Hi I'm Al Ardosa the Fellow Actuary. I've been making tutorials since 2013. I'm 
 I've been working as a senior software developer and tech lead in Lazada and other tech companies for many years, and is now taking all that I've learned, to teach programming skills and to help you discover the amazing career opportunities that being a developer.
 
 ### References
-[Laravel Developer – Become one of the top 5% – Stand out, Get Hired](https://www.alardosa.com/php-laravel-developer-vuejs-developer/)
+[Laravel Developer – Become one of the top 5% – Stand out, Get Hired](https://www.alardosa.com/php-laravel-developer-vuejs-developer)
 
 [Facebook Clone with Laravel, TDD, Vue & Tailwind CSS](https://www.udemy.com/course/facebook-clone-with-laravel-tdd-vue-tailwind-css/)
 
